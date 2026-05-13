@@ -1,8 +1,8 @@
 # currency-server-mcp
 
-[\![Release](https://github.com/day0ops/currency-server-mcp/actions/workflows/release.yml/badge.svg)](https://github.com/day0ops/currency-server-mcp/actions/workflows/release.yml)
-[\![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[\![Image](https://img.shields.io/badge/registry-GAR-4285F4?logo=google-cloud)](https://console.cloud.google.com/artifacts/docker/field-engineering-apac/australia-southeast1/kasunt)
+[![Release](https://github.com/day0ops/currency-server-mcp/actions/workflows/release.yml/badge.svg)](https://github.com/day0ops/currency-server-mcp/actions/workflows/release.yml)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Image](https://img.shields.io/badge/registry-GAR-4285F4?logo=googlecloud)](https://console.cloud.google.com/artifacts/docker/field-engineering-apac/australia-southeast1/kasunt)
 
 MCP server providing live currency exchange rates, built with [FastMCP](https://github.com/jlowin/fastmcp).
 
