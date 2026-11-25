@@ -2,7 +2,7 @@
 
 import httpx
 
-API_BASE = "https://api.frankfurter.app"
+API_BASE = "https://api.frankfurter.dev/v1"
 
 
 def api_get(path: str, params: dict | None = None) -> dict:
